@@ -53,6 +53,7 @@ datasets/
 outputs/
 results/
 models/
+*.csv
 
 # Common ML model formats
 *.h5
